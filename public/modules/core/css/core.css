@@ -1,0 +1,36 @@
+.content {
+	margin-top: 50px;
+}
+.undecorated-link:hover {
+	text-decoration: none;
+}
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+	display: none !important;
+}
+.ng-invalid.ng-dirty {
+	border-color: #FA787E;
+}
+.ng-valid.ng-dirty {
+	border-color: #78FA89;
+}
+
+.picon {
+	background: url('http://s7.patient.media/gfx/paccess-icons.png') no-repeat;
+}
+
+.ios {
+	background-position: -9px -196px;
+	height: 32px;
+	width: 32px;
+}
+
+.droid {
+	background-position: -45px -196px;
+	height: 32px;
+	width: 32px;
+}
+
+.inline_li
+{
+display: inline;
+}
